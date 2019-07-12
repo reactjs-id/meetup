@@ -1,6 +1,6 @@
 # ReactJS ID Meetups
 
-Got any talk ideas for the next meetup? Submit your proposals here.
+Got any talk ideas for the next meetup? Submit your proposals [here](https://github.com/reactjs-id/meetup/issues/new?assignees=%40reactjs-id%2Fmeetup&labels=talks&template=talk-proposal.md).
 
 ## Talk proposal process
 
