@@ -4,7 +4,7 @@ Got any talk ideas for the next meetup? Submit your proposals [here](https://git
 
 ## Talk proposal process
 
-We're following the system used by [JakartaJS](https://github.com/jakartajs/talks) of using GitHub. To propose your idea, [create an issue](https://github.com/reactjs-id/meetup/issues/new) following the template provided. We will then review your proposal, and if you're lucky, we will confirm a schedule with you for the next meetup.
+We're following the system used by [JakartaJS](https://github.com/jakartajs/talks) of using GitHub. To propose your idea, [create an issue](https://github.com/reactjs-id/meetup/issues/new?assignees=%40reactjs-id%2Fmeetup&labels=talks&template=talk-proposal.md) following the template provided. We will then review your proposal, and if you're lucky, we will confirm a schedule with you for the next meetup.
 
 We have two kinds of talks:
 
